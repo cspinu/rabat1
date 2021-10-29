@@ -1649,7 +1649,7 @@ a {
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(180deg, #efefef, #212a3e);
+  background: linear-gradient(180deg, #efefef, #fff0b0);
 }
 .cid-sNfjxtcfUd .icon-focus {
   display: none;
