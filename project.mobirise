@@ -118,7 +118,7 @@
     "sitemapSwitcherAuto": "on",
     "siteUrl": "https://rabat1.ro",
     "gdpr": false,
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "chatbutton": {
       "phone": "+40744603886",
       "message": "",
